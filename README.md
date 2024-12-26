@@ -79,4 +79,8 @@ Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() INT
 
 # Conclusion
 ### Closing Thoughts 
+<<<<<<< HEAD
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The finding from the serve as a guide to prioritizing skill development and job search effort. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continous learning and adapatation to emerging trends in the field of data analytics.
+=======
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The finding from the serve as a guide to prioritizing skill development and job search effort. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continous learning and adapatation to emerging trends in the field of data analytics.
+>>>>>>> afc1ec80a749aa8e8f80ce1ac4fc25e0c1c46169

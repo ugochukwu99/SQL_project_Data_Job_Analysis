@@ -78,5 +78,5 @@ Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() INT
 5. Optimal Skills For Job Market Value**: SQL leads in demand for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
 # Conclusion
-### Closing Thoughts
+### Closing Thoughts 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The finding from the serve as a guide to prioritizing skill development and job search effort. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continous learning and adapatation to emerging trends in the field of data analytics.
